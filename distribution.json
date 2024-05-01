@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3004148,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution/raw/main/servers/Dubious-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.3%20(1).jar",
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution/raw/main/servers/Dubious-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.3.jar",
             "MD5": "727b6784e73f1daf97f4a64629c06c98"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12485586,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution/raw/main/servers/Dubious-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220728snapshot%20(1).jar",
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution/raw/main/servers/Dubious-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220728snapshot.jar",
             "MD5": "938c87e02a117a0ceb593bbc7a31578a"
           }
         },
@@ -397,13 +397,13 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.10@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.11@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 413621805,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Ro92Bd6N/Pixelmon-1.16.5-9.1.10-universal.jar",
-            "MD5": "f2c09ba743c7115d067dafcf88959643"
+            "size": 417443067,
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/12zaqOAo/Pixelmon-1.16.5-9.1.11-universal.jar",
+            "MD5": "395b2e26b52c8c5bc762ff7ee7b3fe49"
           }
         }
       ]
